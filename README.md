@@ -5,6 +5,12 @@
   <p><strong>Unlimited cloud storage powered by Telegram. Stream media, manage channels & groups, share files — no storage limits, ever.</strong></p>
 
   <p>
+    <a href="https://github.com/ShUBHaMJHA9/Telegram-Drive/stargazers"><img src="https://img.shields.io/github/stars/ShUBHaMJHA9/Telegram-Drive?style=flat-square"/></a>
+    <a href="https://github.com/ShUBHaMJHA9/Telegram-Drive/network/members"><img src="https://img.shields.io/github/forks/ShUBHaMJHA9/Telegram-Drive?style=flat-square"/></a>
+    <a href="https://github.com/ShUBHaMJHA9/Telegram-Drive/issues"><img src="https://img.shields.io/github/issues/ShUBHaMJHA9/Telegram-Drive?style=flat-square"/></a>
+  </p>
+
+  <p>
     <img src="https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js"/>
     <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react"/>
     <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb"/>
@@ -45,7 +51,7 @@ Try TeleDrive instantly:
 
 | List View | Starred |
 |---|---|
-| ![List](screenshot/gridview.png) | ![Starred](screenshot/stared.png) |
+| ![List](screenshot/gridview.png) | ![Starred](screenshot/starred.png) |
 
 | Channels | Groups |
 |---|---|
@@ -497,6 +503,21 @@ Telegram-Drive/
 
 ---
 
+## 🤝 Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
 ## 📞 Contact & Support
 
 | | |
@@ -512,7 +533,7 @@ Open a [GitHub Issue](https://github.com/ShUBHaMJHA9/Telegram-Drive/issues) for 
 
 ## 📜 License
 
-MIT License © 2026 [Shubham Jha](https://github.com/ShUBHaMJHA9)
+MIT License © 2024 [Shubham Jha](https://github.com/ShUBHaMJHA9)
 
 > TeleDrive is an independent open-source project, not affiliated with Telegram Messenger Inc. Usage is subject to [Telegram's ToS](https://core.telegram.org/api/terms).
 
