@@ -531,6 +531,13 @@ Open a [GitHub Issue](https://github.com/ShUBHaMJHA9/Telegram-Drive/issues) for 
 
 ---
 
+<h2 align="center">Visitors Counts 👀</h2>
+<div align="center">
+  <a href="https://github.com/ShUBHaMJHA9/Telegram-Drive"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Drive?theme=rule34" /></a>
+</div>
+
+---
+
 ## 📜 License
 
 MIT License © 2024 [Shubham Jha](https://github.com/ShUBHaMJHA9)
